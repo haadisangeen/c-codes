@@ -39,7 +39,7 @@ int main()
 
     // sin
     double F;
-    F = sin(45 * (M_PI / 180.0)); // Convert degrees to radians
+    F = sin(45 * (_M_IX86/ 180.0)); // Convert degrees to radians
     printf("The sine of 45 degrees is %lf\n", F);
 
     return 0;           
